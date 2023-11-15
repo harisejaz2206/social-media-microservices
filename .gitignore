@@ -1,0 +1,21 @@
+# Ignore Node.js related files and directories
+node_modules/
+
+# Ignore log files and other generated files
+logs/
+*.log
+npm-debug.log*
+
+# Ignore OS and IDE-specific files
+.DS_Store
+.vscode/
+*.suo
+*.ntvs*
+
+# Ignore configuration files
+*.swp
+.editorconfig
+.idea/
+*.yml
+*.yaml
+*.env
