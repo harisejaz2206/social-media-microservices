@@ -19,5 +19,3 @@ npm-debug.log*
 *.yml
 *.yaml
 *.env
-
-npm install dotenv
